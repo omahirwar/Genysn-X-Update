@@ -26,7 +26,7 @@ Hugging Face Enter N
 
 🖥️ Step 5: Screen Craete
 ```Bash
-screen -S The Airdrop Analysts
+screen -S The Airdrop
 ```
 😁Step - 6 Start Your Node 
 ```Bash
@@ -57,6 +57,13 @@ screen -r ?????
  ```Bash
 [ -f backup.sh ] && rm backup.sh; curl -sSL -O https://raw.githubusercontent.com/AbhiEBA/gensyn1/main/backup.sh && chmod +x backup.sh && ./backup.sh
 ```
+
+Any Error Paste Command
+```Bash
+sudo apt update
+sudo apt install netcat-openbsd lsof -y
+
+
 Backup Successfully Then Press CTRL C
 
 Congratulations 🎉 Node Running 😄 
