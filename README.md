@@ -22,7 +22,10 @@ cd ~
 git clone https://github.com/gensyn-ai/rl-swarm.git
 cd rl-swarm
 ```
-
+Step 5 Install Sudo
+```Bash
+sudo apt update && sudo apt install screen -y
+```
 🖥️ Step 5: Screen Craete
 ```Bash
 screen -S The
