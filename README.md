@@ -22,11 +22,10 @@ cd ~
 git clone https://github.com/gensyn-ai/rl-swarm.git
 cd rl-swarm
 ```
-Hugging Face Enter N 
 
 🖥️ Step 5: Screen Craete
 ```Bash
-screen -S The Airdrop
+screen -S The
 ```
 😁Step - 6 Start Your Node 
 ```Bash
