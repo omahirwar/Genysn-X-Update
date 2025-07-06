@@ -62,8 +62,7 @@ Any Error Paste Command
 ```Bash
 sudo apt update
 sudo apt install netcat-openbsd lsof -y
-
-
+```
 Backup Successfully Then Press CTRL C
 
 Congratulations 🎉 Node Running 😄 
