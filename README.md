@@ -30,6 +30,14 @@ sudo apt update && sudo apt install screen -y
 ```Bash
 screen -S The
 ```
+(Latest Update Command V-0.5.2 )
+```Bash
+git switch main
+git reset --hard
+git clean -fd
+git pull origin main
+```
+
 😁Step - 6 Start Your Node 
 ```Bash
 cd ~/rl-swarm
